@@ -51,7 +51,7 @@ const Index = () => {
               <a href="#contact" className="text-foreground hover:text-primary transition-colors">Contact</a>
             </div>
             <Button asChild>
-              <a href="https://youtube.com/@techdudes" target="_blank" rel="noopener noreferrer">
+              <a href="https://youtube.com/@techdudes3771?si=bD7mgSzgtsPKPkbC" target="_blank" rel="noopener noreferrer">
                 <Youtube className="mr-2 h-4 w-4" />
                 Subscribe
               </a>
@@ -80,7 +80,7 @@ const Index = () => {
             </div>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" asChild>
-                <a href="https://youtube.com/@techdudes" target="_blank" rel="noopener noreferrer">
+                <a href="https://youtube.com/@techdudes3771?si=bD7mgSzgtsPKPkbC" target="_blank" rel="noopener noreferrer">
                   <Youtube className="mr-2 h-5 w-5" />
                   Watch Latest Videos
                 </a>
@@ -177,7 +177,7 @@ const Index = () => {
                         {video.views} views
                       </span>
                       <Button size="sm" variant="ghost" asChild>
-                        <a href="https://youtube.com/@techdudes" target="_blank" rel="noopener noreferrer">
+                        <a href="https://youtube.com/@techdudes3771?si=bD7mgSzgtsPKPkbC" target="_blank" rel="noopener noreferrer">
                           <ExternalLink className="h-4 w-4" />
                         </a>
                       </Button>
@@ -188,7 +188,7 @@ const Index = () => {
             </div>
             <div className="text-center mt-12">
               <Button size="lg" asChild>
-                <a href="https://youtube.com/@techdudes" target="_blank" rel="noopener noreferrer">
+                <a href="https://youtube.com/@techdudes3771?si=bD7mgSzgtsPKPkbC" target="_blank" rel="noopener noreferrer">
                   <Youtube className="mr-2 h-5 w-5" />
                   View All Tutorials
                 </a>
@@ -208,13 +208,13 @@ const Index = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" asChild>
-                <a href="mailto:contact@techdudes.com">
+                <a href="mailto:techdudesadda@gmail.com">
                   <Mail className="mr-2 h-5 w-5" />
                   Email Me
                 </a>
               </Button>
               <Button size="lg" variant="outline" asChild>
-                <a href="https://youtube.com/@techdudes" target="_blank" rel="noopener noreferrer">
+                <a href="https://youtube.com/@techdudes3771?si=bD7mgSzgtsPKPkbC" target="_blank" rel="noopener noreferrer">
                   <Youtube className="mr-2 h-5 w-5" />
                   YouTube Channel
                 </a>
@@ -232,7 +232,7 @@ const Index = () => {
             <span className="text-xl font-bold">TechDudes</span>
           </div>
           <p className="text-muted-foreground">
-            © 2024 TechDudes. Sharing knowledge, building the future.
+            © 2025 TechDudes. Sharing knowledge, building the future.
           </p>
         </div>
       </footer>
