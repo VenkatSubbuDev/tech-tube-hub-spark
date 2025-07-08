@@ -1,4 +1,4 @@
-# Welcome to Techdudes By Venkat
+# Welcome to Techdudes By Venkat Subbu
 
 ## Project info
 
