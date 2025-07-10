@@ -24,7 +24,7 @@ const Index = () => {
       title: "How to Create Azure Storage Account | Set Up Containers | and Upload Files | Beginner’s Guide",
       description: "Whether you’re new to Azure or looking to strengthen your cloud skills, this video will help you build a solid foundation.",
       thumbnail: "https://img.youtube.com/vi/8YoM6lN8hrg/sddefault.jpg",
-      duration: "04:02",
+      duration: "04:03",
       views: "1.3K",
       url: "https://youtu.be/8YoM6lN8hrg?si=kafpGvIUljdUThfG"
     },
