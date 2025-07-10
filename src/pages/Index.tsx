@@ -13,28 +13,28 @@ const Index = () => {
 
   const featuredVideos = [
     {
-      title: "Remove DUPLICATE files with new PC Manager App from Microsoft!",
-      description: "Life changing app release from Microsoft for managing duplicate files efficiently",
+      title: "How to Create Azure Tenant & Migrate Existing Resources to New Tenant | Step-by-Step Tutorial",
+      description: "Whether you’re a beginner exploring Azure or someone looking to streamline your cloud management, this tutorial will give you all the tools you need.",
       thumbnail: "https://i.ytimg.com/vi/uRncMLX-V0Y/maxresdefault.jpg",
-      duration: "8:25",
-      views: "592",
-      url: "https://www.youtube.com/watch?v=uRncMLX-V0Y"
+      duration: "6:36",
+      views: "1498",
+      url: "https://youtu.be/C2IVb9eI2-M?si=PkaU6W_UrbWjkchQ"
     },
     {
-      title: "How To: Convert ANY bike into a Mental 6000 watt Dual Motor E-BIKE!",
-      description: "Detailed guide on fitting dual 3000watt electric hub motor wheels onto any hardtail mountain bike",
+      title: "How to Create Azure Storage Account | Set Up Containers | and Upload Files | Beginner’s Guide",
+      description: "Whether you’re new to Azure or looking to strengthen your cloud skills, this video will help you build a solid foundation.",
       thumbnail: "https://i.ytimg.com/vi/aSNGRDH6sHo/maxresdefault.jpg",
-      duration: "18:42",
-      views: "5.2K",
-      url: "https://www.youtube.com/watch?v=aSNGRDH6sHo"
+      duration: "04:02",
+      views: "1.3K",
+      url: "https://youtu.be/8YoM6lN8hrg?si=kafpGvIUljdUThfG"
     },
     {
-      title: "Dudios T8 TWS Earbuds Review - Best Under 25$ !?",
-      description: "Quick review about the Dudios T8 Bluetooth Earbuds - truly wireless earbuds for a lot cheaper than AirPods",
+      title: "How to Perform CRUD Operations on Azure Blob Storage Using .NET 8 Web API | Step-by-Step Tutorial",
+      description: "This step-by-step guide will help you integrate Azure Storage seamlessly into your applications!",
       thumbnail: "https://i.ytimg.com/vi/G0C78GY2r-w/maxresdefault.jpg",
-      duration: "12:15",
-      views: "1.8K",
-      url: "https://www.youtube.com/watch?v=G0C78GY2r-w"
+      duration: "09:58",
+      views: "605",
+      url: "https://youtu.be/DIHmm9BxL6s?si=h4dUZf1NkSDGzW5J"
     }
   ];
 
