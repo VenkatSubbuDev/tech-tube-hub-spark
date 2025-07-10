@@ -13,25 +13,28 @@ const Index = () => {
 
   const featuredVideos = [
     {
-      title: ".NET 8 Complete Tutorial",
-      description: "Learn the latest features in .NET 8 with practical examples",
-      thumbnail: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=225&fit=crop",
-      duration: "45:30",
-      views: "12.5K"
+      title: "Remove DUPLICATE files with new PC Manager App from Microsoft!",
+      description: "Life changing app release from Microsoft for managing duplicate files efficiently",
+      thumbnail: "https://i.ytimg.com/vi/uRncMLX-V0Y/maxresdefault.jpg",
+      duration: "8:25",
+      views: "592",
+      url: "https://www.youtube.com/watch?v=uRncMLX-V0Y"
     },
     {
-      title: "Azure DevOps CI/CD Pipeline",
-      description: "Build and deploy applications using Azure DevOps",
-      thumbnail: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=225&fit=crop",
-      duration: "32:15",
-      views: "8.2K"
+      title: "How To: Convert ANY bike into a Mental 6000 watt Dual Motor E-BIKE!",
+      description: "Detailed guide on fitting dual 3000watt electric hub motor wheels onto any hardtail mountain bike",
+      thumbnail: "https://i.ytimg.com/vi/aSNGRDH6sHo/maxresdefault.jpg",
+      duration: "18:42",
+      views: "5.2K",
+      url: "https://www.youtube.com/watch?v=aSNGRDH6sHo"
     },
     {
-      title: "React Hooks Deep Dive",
-      description: "Master React hooks with real-world examples",
-      thumbnail: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400&h=225&fit=crop",
-      duration: "28:45",
-      views: "15.7K"
+      title: "Finally HERE! Elon Musk Announces $6,375 Tesla Tiny House",
+      description: "2026 Game-Changer Revealed! How the Tesla Tiny House makes you 100% energy independent",
+      thumbnail: "https://i.ytimg.com/vi/5IDoI3qYJQA/maxresdefault.jpg",
+      duration: "16:30",
+      views: "8.1K",
+      url: "https://www.youtube.com/watch?v=5IDoI3qYJQA"
     }
   ];
 
@@ -177,7 +180,7 @@ const Index = () => {
                         {video.views} views
                       </span>
                       <Button size="sm" variant="ghost" asChild>
-                        <a href="https://youtube.com/@techdudes3771?si=bD7mgSzgtsPKPkbC" target="_blank" rel="noopener noreferrer">
+                        <a href={video.url} target="_blank" rel="noopener noreferrer">
                           <ExternalLink className="h-4 w-4" />
                         </a>
                       </Button>
