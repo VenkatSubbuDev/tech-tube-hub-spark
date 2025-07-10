@@ -29,12 +29,12 @@ const Index = () => {
       url: "https://www.youtube.com/watch?v=aSNGRDH6sHo"
     },
     {
-      title: "Finally HERE! Elon Musk Announces $6,375 Tesla Tiny House",
-      description: "2026 Game-Changer Revealed! How the Tesla Tiny House makes you 100% energy independent",
-      thumbnail: "https://i.ytimg.com/vi/5IDoI3qYJQA/maxresdefault.jpg",
-      duration: "16:30",
-      views: "8.1K",
-      url: "https://www.youtube.com/watch?v=5IDoI3qYJQA"
+      title: "Dudios T8 TWS Earbuds Review - Best Under 25$ !?",
+      description: "Quick review about the Dudios T8 Bluetooth Earbuds - truly wireless earbuds for a lot cheaper than AirPods",
+      thumbnail: "https://i.ytimg.com/vi/G0C78GY2r-w/maxresdefault.jpg",
+      duration: "12:15",
+      views: "1.8K",
+      url: "https://www.youtube.com/watch?v=G0C78GY2r-w"
     }
   ];
 
