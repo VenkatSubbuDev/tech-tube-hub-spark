@@ -15,7 +15,7 @@ const Index = () => {
     {
       title: "How to Create Azure Tenant & Migrate Existing Resources to New Tenant | Step-by-Step Tutorial",
       description: "Whether you’re a beginner exploring Azure or someone looking to streamline your cloud management, this tutorial will give you all the tools you need.",
-      thumbnail: "https://i.ytimg.com/vi/uRncMLX-V0Y/maxresdefault.jpg",
+      thumbnail: "https://img.youtube.com/vi/C2IVb9eI2-M/sddefault.jpg",
       duration: "6:36",
       views: "1498",
       url: "https://youtu.be/C2IVb9eI2-M?si=PkaU6W_UrbWjkchQ"
@@ -23,7 +23,7 @@ const Index = () => {
     {
       title: "How to Create Azure Storage Account | Set Up Containers | and Upload Files | Beginner’s Guide",
       description: "Whether you’re new to Azure or looking to strengthen your cloud skills, this video will help you build a solid foundation.",
-      thumbnail: "https://i.ytimg.com/vi/aSNGRDH6sHo/maxresdefault.jpg",
+      thumbnail: "https://img.youtube.com/vi/8YoM6lN8hrg/sddefault.jpg",
       duration: "04:02",
       views: "1.3K",
       url: "https://youtu.be/8YoM6lN8hrg?si=kafpGvIUljdUThfG"
@@ -31,7 +31,7 @@ const Index = () => {
     {
       title: "How to Perform CRUD Operations on Azure Blob Storage Using .NET 8 Web API | Step-by-Step Tutorial",
       description: "This step-by-step guide will help you integrate Azure Storage seamlessly into your applications!",
-      thumbnail: "https://i.ytimg.com/vi/G0C78GY2r-w/maxresdefault.jpg",
+      thumbnail: "https://img.youtube.com/vi/DIHmm9BxL6s/sddefault.jpg",
       duration: "09:58",
       views: "605",
       url: "https://youtu.be/DIHmm9BxL6s?si=h4dUZf1NkSDGzW5J"
